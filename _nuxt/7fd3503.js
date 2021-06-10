@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{278:function(t,n,e){"use strict";e.r(n);var c={props:["path","caption"]},r=e(28),component=Object(r.a)(c,(function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("figure",[e("img",{attrs:{src:t.path}}),t._v(" "),e("figcaption",[t._v(t._s(t.caption))])])}),[],!1,null,null,null);n.default=component.exports}}]);
