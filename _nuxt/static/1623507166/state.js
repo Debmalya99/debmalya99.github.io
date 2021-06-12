@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"debmalyamitra99.github.io\u002F_nuxt\u002Fstatic\u002F1623507166",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"debmalyamitra99.github.io\u002F",assetsPath:"debmalyamitra99.github.io\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"4fbf1193"}}}}(null));
