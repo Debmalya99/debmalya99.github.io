@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/greatestscifi", {data:[{}],fetch:{},mutations:void 0});
